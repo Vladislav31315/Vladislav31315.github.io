@@ -1,0 +1,67 @@
+/* Styles go here */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Jura');
+@import url('https://fonts.googleapis.com/css?family=Play|Rubik+Mono+One');
+.Backcolor1{
+    background-color: #3B5998;
+}
+header{
+    font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Play', sans-serif;
+}
+.Center
+{
+  text-align: center;
+}
+
+.Backcolor2{
+    background-color: #8B9DC3;
+}
+.Cursive{
+  font-style: italic;
+}
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Play', sans-serif;
+}
+footer{
+    font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Play', sans-serif;
+}
+.Backcolor3{
+    background-color: #DFE3EE;
+}
+.hr1{
+    width: 500px;
+    color: black;
+    
+}
+.hr2{
+    width: 300px;
+   
+}
+.hr3{
+    width: 100px;
+}
+.hr4{
+    width: 250px;
+}
+.hr5{
+    width: 100px;
+}
+.hr6{
+    width: 200px;
+}
+.c1{
+    background-color: #467ff1;
+    
+    margin: 100px 500px 100px 500px;
+}
+.Justify{
+    text-align:right;
+}
+.black{
+color: black;
+}
